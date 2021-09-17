@@ -1,0 +1,115 @@
+@import url ('https://fonts.googleapis.com/css2? family = Lato: ital @ 1 & display = swap');
+
+
+*{	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #aaa69d;
+	
+}
+
+#main{ 	
+	width: 90%;
+		max-width: 1180px;
+		height: 700px;
+		background-color: #a37da1;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+header { 
+	width:100%;
+	height:130px;
+	background-color:#218c74;
+	
+}
+.logo{
+	padding-left: 400px;
+	padding-top: 30px;
+	display: inline-block;	
+	margin-left: auto;
+	float: center;
+	
+}   
+section{
+	background-size: cover;
+		width:auto;
+		height:530px;
+	    clear: both;
+	    background-color:#009432;
+}
+
+#intro{width: 50%;
+	height: 300px;
+ 	float: left;
+	font-family: 'Lato', sans-serif;
+ 	padding-right:10px;
+
+ 	}
+ 
+.text2{
+	width: 700px;
+	padding: 30px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Lato', sans-serif;
+	font-weight: 10;
+	font-size: 16px;
+	color: #ffffff;
+	column-count: 2;
+	column-gap: 80px;
+	column-rule: 2px solid #ffffff;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #b8e994;
+	border-radius: 20px;
+background: #314032 rgba(49,64,50)
+
+}
+
+ footer{width:100%;
+		height:80px;
+		background-color:#218c74;
+	}
+footer ul li{
+			list-style-type: none;
+			display: inline-block;
+
+		}
+.marca{
+			padding-left: 41px;
+			padding-top: 20px;  
+		  }
+
+.nombre{
+	padding-right: 490px;
+	padding-top: 30px;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFFFFF;
+	float: right;
+	display: inline-block;
+		 }
+
+.redes{
+			padding-top: 5px;
+			padding-right:50px;
+			float: left;
+				
+			}
+.redes li {
+		 	padding-left: 41px;
+			padding-top: 5px;
+			display: inline-block;
+			float: left;
+			}
+
+ 
+
